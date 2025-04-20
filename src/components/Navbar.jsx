@@ -10,7 +10,7 @@ const Navbar = () => {
       <a href="#hero" className="h-10">
         <img
           className="object-cover h-20 scale-125 cursor-pointer object-center"
-          src="/src/components/images/logo.png"
+          src="logo.png"
           alt="Logo"
         />
       </a>

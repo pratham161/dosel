@@ -5,7 +5,7 @@ const VisionSection = () => {
         {/* Image */}
         <div className="w-full md:w-1/2">
           <img
-            src="/src/components/images/vision.png"
+            src="vision.png"
             alt="Vision"
             className="w-full h-auto rounded-xl  object-cover"
           />

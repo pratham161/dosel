@@ -47,7 +47,7 @@ const WhyChooseUs = () => {
           {/* Image */}
           <img
             className="w-full lg:w-1/2 object-cover"
-            src="/src/components/images/conpany.png"
+            src="conpany.png"
             alt="Company"
           />
 

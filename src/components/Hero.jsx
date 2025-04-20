@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="w-full md:w-1/2">
         <img
           className="w-full h-auto object-cover"
-          src="/src/components/images/herographic.png"
+          src="herographic.png"
           alt="Hero Graphic"
         />
       </div>
