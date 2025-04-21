@@ -9,7 +9,7 @@ const Navbar = () => {
       {/* Logo */}
       <a href="#hero" className="h-10">
         <img
-          className="object-cover h-20 scale-125 cursor-pointer object-center"
+          className="object-cover h-28 scale-125 cursor-pointer object-center"
           src="logo.png"
           alt="Logo"
         />
